@@ -1,0 +1,1648 @@
+2024-08-09 01:31:05.512 +03:00|0.14.9.1.30626|Info|application|Application awaken, updateQueue:'Update' 
+2024-08-09 01:31:05.524 +03:00|0.14.9.1.30626|Info|application|Assert.raiseExceptions:'True' 
+2024-08-09 01:31:05.524 +03:00|0.14.9.1.30626|Info|application|Application obfuscation succeed. 
+2024-08-09 01:31:07.060 +03:00|0.14.9.1.30626|Info|application|driveType:SSD swapDriveType:SSD 
+2024-08-09 01:31:09.806 +03:00|0.14.9.1.30626|Info|application|NVIDIA Reflex is available on this machine, Status: NvReflex_OK. 
+2024-08-09 01:31:14.915 +03:00|0.14.9.1.30626|Info|application|Game settings:
+{
+  "Language": "en",
+  "SelectedMemberCategory": "Unheard",
+  "QuickSlotsVisibility": "Autohide",
+  "StaminaVisibility": "Autohide",
+  "HealthVisibility": "Autohide",
+  "HealthColor": "WhiteToRed",
+  "NotificationTransportType": "Default",
+  "ConnectionType": "Default",
+  "HighlightScope": "All",
+  "FieldOfView": 75,
+  "HeadBobbing": 0.2,
+  "AutoEmptyWorkingSet": false,
+  "SetAffinityToLogicalCores": true,
+  "EnableHideoutPreload": true,
+  "StreamerModeEnabled": false,
+  "BlockGroupInvites": false,
+  "ItemQuickUseMode": "InRaidAndInLobby",
+  "AutoVaultingMode": "Hotkey",
+  "MalfunctionVisability": true,
+  "TradingIntermediateScreen": true,
+  "RagfairLinesCount": 30,
+  "EnvironmentUiType": "TheUnheardEditionEnvironmentUiType"
+} 
+2024-08-09 01:31:14.915 +03:00|0.14.9.1.30626|Info|application|Sound settings:
+{
+  "OverallVolume": 6,
+  "InterfaceVolume": 3,
+  "ChatVolume": 3,
+  "MusicVolume": 0,
+  "HideoutVolume": 2,
+  "MusicOnRaidEnd": true,
+  "BinauralSound": true,
+  "VoipEnabled": true,
+  "VoipDevice": "Default",
+  "VoipDeviceSensitivity": 100
+} 
+2024-08-09 01:31:14.915 +03:00|0.14.9.1.30626|Info|application|PostFx settings:
+{
+  "EnablePostFx": true,
+  "Brightness": 100,
+  "Saturation": 85,
+  "Clarity": 15,
+  "Colorfulness": 100,
+  "LumaSharpen": 0,
+  "AdaptiveSharpen": 0,
+  "ColorFilterType": "Jason",
+  "Intensity": 20,
+  "ColorBlindnessType": "None",
+  "ColorBlindnessIntensity": 0
+} 
+2024-08-09 01:31:14.920 +03:00|0.14.9.1.30626|Info|application|Graphics settings:
+{
+  "Stored": [
+    {
+      "Index": 0,
+      "FullScreenResolution": {
+        "Width": 1920,
+        "Height": 1080
+      },
+      "FullScreenAspectRatio": {
+        "X": 16,
+        "Y": 9
+      },
+      "WindowResolution": {
+        "Width": 1920,
+        "Height": 1080
+      },
+      "WindowAspectRatio": {
+        "X": 16,
+        "Y": 9
+      }
+    }
+  ],
+  "DisplaySettings": {
+    "Display": 0,
+    "FullScreenMode": 1,
+    "Resolution": {
+      "Width": 1920,
+      "Height": 1080
+    },
+    "AspectRatio": {
+      "X": 16,
+      "Y": 9
+    }
+  },
+  "GraphicsQuality": null,
+  "ShadowsQuality": 0,
+  "TextureQuality": 1,
+  "SDMode": null,
+  "VSync": false,
+  "LobbyFramerate": 60,
+  "GameFramerate": 120,
+  "SuperSampling": "Off",
+  "AnisotropicFiltering": "ForceEnable",
+  "OverallVisibility": 1500.0,
+  "LodBias": 2.5,
+  "MipStreamingBufferSize": 32,
+  "MipStreamingIOCount": 768,
+  "Ssao": "FastestPerformance",
+  "Sharpen": 0.2,
+  "SSR": "Low",
+  "AntiAliasing": "None",
+  "NVidiaReflex": "On",
+  "GrassShadow": false,
+  "ChromaticAberrations": true,
+  "Noise": false,
+  "ZBlur": false,
+  "HighQualityColor": true,
+  "MipStreaming": true,
+  "SdTarkovStreets": true,
+  "DLSSMode": "Quality",
+  "FSRMode": "Off",
+  "FSR2Mode": "Off",
+  "DLSSEnabled": true,
+  "FSREnabled": false,
+  "FSR2Enabled": false,
+  "ShadowDistance": 20.0,
+  "SuperSamplingFactor": 1.0
+} 
+2024-08-09 01:31:14.935 +03:00|0.14.9.1.30626|Info|application|Control settings:
+{
+  "InvertedXAxis": false,
+  "InvertedYAxis": false,
+  "MouseSensitivity": 0.7,
+  "MouseAimingSensitivity": 0.5,
+  "DoubleClickTimeout": 0.3,
+  "axisBindings": [
+    {
+      "axisName": "MoveX",
+      "pairs": [
+        {
+          "positive": {
+            "keyCode": [
+              "D"
+            ]
+          },
+          "negative": {
+            "keyCode": [
+              "A"
+            ]
+          }
+        },
+        {
+          "positive": {
+            "keyCode": []
+          },
+          "negative": {
+            "keyCode": []
+          }
+        }
+      ]
+    },
+    {
+      "axisName": "MoveY",
+      "pairs": [
+        {
+          "positive": {
+            "keyCode": [
+              "W"
+            ]
+          },
+          "negative": {
+            "keyCode": [
+              "S"
+            ]
+          }
+        },
+        {
+          "positive": {
+            "keyCode": []
+          },
+          "negative": {
+            "keyCode": []
+          }
+        }
+      ]
+    },
+    {
+      "axisName": "TurnX",
+      "pairs": [
+        {
+          "positive": {
+            "isAxis": true,
+            "keyCode": [],
+            "axisName": "Mouse X",
+            "positiveAxis": true,
+            "sensitivity": 5.0
+          },
+          "negative": {
+            "isAxis": true,
+            "keyCode": [],
+            "axisName": "Mouse X",
+            "sensitivity": 5.0
+          }
+        },
+        {
+          "positive": {
+            "keyCode": []
+          },
+          "negative": {
+            "keyCode": []
+          }
+        }
+      ]
+    },
+    {
+      "axisName": "TurnY",
+      "pairs": [
+        {
+          "positive": {
+            "isAxis": true,
+            "keyCode": [],
+            "axisName": "Mouse Y",
+            "sensitivity": 5.0
+          },
+          "negative": {
+            "isAxis": true,
+            "keyCode": [],
+            "axisName": "Mouse Y",
+            "positiveAxis": true,
+            "sensitivity": 5.0
+          }
+        },
+        {
+          "positive": {
+            "keyCode": []
+          },
+          "negative": {
+            "keyCode": []
+          }
+        }
+      ]
+    },
+    {
+      "axisName": "LookX",
+      "pairs": [
+        {
+          "positive": {
+            "isAxis": true,
+            "keyCode": [],
+            "axisName": "Mouse X",
+            "positiveAxis": true,
+            "sensitivity": 5.0
+          },
+          "negative": {
+            "isAxis": true,
+            "keyCode": [],
+            "axisName": "Mouse X",
+            "sensitivity": 5.0
+          }
+        },
+        {
+          "positive": {
+            "keyCode": []
+          },
+          "negative": {
+            "keyCode": []
+          }
+        }
+      ]
+    },
+    {
+      "axisName": "LookY",
+      "pairs": [
+        {
+          "positive": {
+            "isAxis": true,
+            "keyCode": [],
+            "axisName": "Mouse Y",
+            "sensitivity": 5.0
+          },
+          "negative": {
+            "isAxis": true,
+            "keyCode": [],
+            "axisName": "Mouse Y",
+            "positiveAxis": true,
+            "sensitivity": 5.0
+          }
+        },
+        {
+          "positive": {
+            "keyCode": []
+          },
+          "negative": {
+            "keyCode": []
+          }
+        }
+      ]
+    },
+    {
+      "axisName": "LeanX",
+      "pairs": [
+        {
+          "positive": {
+            "keyCode": [
+              "D",
+              "LeftAlt"
+            ],
+            "positiveAxis": true,
+            "sensitivity": 5.0
+          },
+          "negative": {
+            "keyCode": [
+              "A",
+              "LeftAlt"
+            ],
+            "positiveAxis": true,
+            "sensitivity": 5.0
+          }
+        },
+        {
+          "positive": {
+            "keyCode": []
+          },
+          "negative": {
+            "keyCode": []
+          }
+        }
+      ]
+    }
+  ],
+  "keyBindings": [
+    {
+      "keyName": "LeanLockRight",
+      "variants": [
+        {
+          "keyCode": [
+            "E"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Continuous"
+    },
+    {
+      "keyName": "LeanLockLeft",
+      "variants": [
+        {
+          "keyCode": [
+            "Q"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Continuous"
+    },
+    {
+      "keyName": "Shoot",
+      "variants": [
+        {
+          "keyCode": [
+            "Mouse0"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Continuous"
+    },
+    {
+      "keyName": "Aim",
+      "variants": [
+        {
+          "keyCode": [
+            "Mouse1"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "ChangeAimScope",
+      "variants": [
+        {
+          "keyCode": [
+            "Mouse1",
+            "LeftControl"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "ChangeAimScopeMagnification",
+      "variants": [
+        {
+          "keyCode": [
+            "Mouse1",
+            "LeftAlt"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "Nidnod",
+      "variants": [
+        {
+          "keyCode": [
+            "Mouse2"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Release"
+    },
+    {
+      "keyName": "ToggleGoggles",
+      "variants": [
+        {
+          "keyCode": [
+            "N"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "ToggleHeadLight",
+      "variants": [
+        {
+          "keyCode": [
+            "H"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Release"
+    },
+    {
+      "keyName": "SwitchHeadLight",
+      "variants": [
+        {
+          "keyCode": [
+            "H",
+            "LeftControl"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Release"
+    },
+    {
+      "keyName": "ToggleVoip",
+      "variants": [
+        {
+          "keyCode": []
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "PushToTalk",
+      "variants": [
+        {
+          "keyCode": [
+            "K"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Continuous"
+    },
+    {
+      "keyName": "Mumble",
+      "variants": [
+        {
+          "keyCode": [
+            "Y"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "DoubleClick"
+    },
+    {
+      "keyName": "MumbleDropdown",
+      "variants": [
+        {
+          "keyCode": [
+            "Y"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Continuous"
+    },
+    {
+      "keyName": "MumbleQuick",
+      "variants": [
+        {
+          "keyCode": [
+            "Y"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Release"
+    },
+    {
+      "keyName": "WatchTime",
+      "variants": [
+        {
+          "keyCode": [
+            "O"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "WatchTimerAndExits",
+      "variants": [
+        {
+          "keyCode": [
+            "O"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "DoubleClick"
+    },
+    {
+      "keyName": "Tactical",
+      "variants": [
+        {
+          "keyCode": [
+            "T"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "NextTacticalDevice",
+      "variants": [
+        {
+          "keyCode": [
+            "T",
+            "LeftControl"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "Next",
+      "variants": [
+        {
+          "isAxis": true,
+          "keyCode": [],
+          "axisName": "Mouse Scroll",
+          "positiveAxis": true
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "Previous",
+      "variants": [
+        {
+          "isAxis": true,
+          "keyCode": [],
+          "axisName": "Mouse Scroll"
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "Interact",
+      "variants": [
+        {
+          "keyCode": [
+            "F"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Continuous"
+    },
+    {
+      "keyName": "ThrowGrenade",
+      "variants": [
+        {
+          "keyCode": [
+            "G"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "ReloadWeapon",
+      "variants": [
+        {
+          "keyCode": [
+            "R"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Release"
+    },
+    {
+      "keyName": "QuickReloadWeapon",
+      "variants": [
+        {
+          "keyCode": [
+            "R"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "DoubleClick"
+    },
+    {
+      "keyName": "DropBackpack",
+      "variants": [
+        {
+          "keyCode": [
+            "Z"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "DoubleClick"
+    },
+    {
+      "keyName": "NextMagazine",
+      "variants": [
+        {
+          "isAxis": true,
+          "keyCode": [
+            "R"
+          ],
+          "axisName": "Mouse Scroll",
+          "positiveAxis": true
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "PreviousMagazine",
+      "variants": [
+        {
+          "isAxis": true,
+          "keyCode": [
+            "R"
+          ],
+          "axisName": "Mouse Scroll"
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "ChangePointOfView",
+      "variants": [
+        {
+          "keyCode": [
+            "Home"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "CheckAmmo",
+      "variants": [
+        {
+          "keyCode": [
+            "T",
+            "LeftAlt"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "ShootingMode",
+      "variants": [
+        {
+          "keyCode": [
+            "B"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "ForceAutoWeaponMode",
+      "variants": [
+        {
+          "keyCode": [
+            "B"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "DoubleClick"
+    },
+    {
+      "keyName": "CheckFireMode",
+      "variants": [
+        {
+          "keyCode": [
+            "B",
+            "LeftAlt"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "CheckChamber",
+      "variants": [
+        {
+          "keyCode": [
+            "T",
+            "LeftShift"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "ChamberUnload",
+      "variants": [
+        {
+          "keyCode": [
+            "R",
+            "LeftControl"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "UnloadMagazine",
+      "variants": [
+        {
+          "keyCode": [
+            "R",
+            "LeftAlt"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "Prone",
+      "variants": [
+        {
+          "keyCode": [
+            "X"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "Sprint",
+      "variants": [
+        {
+          "keyCode": [
+            "LeftShift"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "Duck",
+      "variants": [
+        {
+          "keyCode": [
+            "C"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Release"
+    },
+    {
+      "keyName": "NextWalkPose",
+      "variants": [
+        {
+          "isAxis": true,
+          "keyCode": [
+            "C"
+          ],
+          "axisName": "Mouse Scroll",
+          "positiveAxis": true
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "PreviousWalkPose",
+      "variants": [
+        {
+          "isAxis": true,
+          "keyCode": [
+            "C"
+          ],
+          "axisName": "Mouse Scroll"
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "Walk",
+      "variants": [
+        {
+          "keyCode": [
+            "CapsLock"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "BlindShootAbove",
+      "variants": [
+        {
+          "keyCode": [
+            "W",
+            "LeftAlt"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Continuous"
+    },
+    {
+      "keyName": "BlindShootRight",
+      "variants": [
+        {
+          "keyCode": [
+            "S",
+            "LeftAlt"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Continuous"
+    },
+    {
+      "keyName": "StepRight",
+      "variants": [
+        {
+          "keyCode": [
+            "E",
+            "LeftAlt"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Continuous"
+    },
+    {
+      "keyName": "StepLeft",
+      "variants": [
+        {
+          "keyCode": [
+            "Q",
+            "LeftAlt"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Continuous"
+    },
+    {
+      "keyName": "ExamineWeapon",
+      "variants": [
+        {
+          "keyCode": [
+            "L"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "FoldStock",
+      "variants": [
+        {
+          "keyCode": [
+            "L",
+            "LeftAlt"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "Inventory",
+      "variants": [
+        {
+          "keyCode": [
+            "Tab"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "Jump",
+      "variants": [
+        {
+          "keyCode": [
+            "Space"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Release"
+    },
+    {
+      "keyName": "Knife",
+      "variants": [
+        {
+          "keyCode": [
+            "V"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "QuickKnife",
+      "variants": [
+        {
+          "keyCode": [
+            "V"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "DoubleClick"
+    },
+    {
+      "keyName": "PrimaryWeaponFirst",
+      "variants": [
+        {
+          "keyCode": [
+            "Alpha2"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "PrimaryWeaponSecond",
+      "variants": [
+        {
+          "keyCode": [
+            "Alpha3"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "SecondaryWeapon",
+      "variants": [
+        {
+          "keyCode": [
+            "Alpha1"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "QuickSecondaryWeapon",
+      "variants": [
+        {
+          "keyCode": [
+            "Alpha1"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "DoubleClick"
+    },
+    {
+      "keyName": "Slot4",
+      "variants": [
+        {
+          "keyCode": [
+            "Alpha4"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Release"
+    },
+    {
+      "keyName": "Slot5",
+      "variants": [
+        {
+          "keyCode": [
+            "Alpha5"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Release"
+    },
+    {
+      "keyName": "Slot6",
+      "variants": [
+        {
+          "keyCode": [
+            "Alpha6"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Release"
+    },
+    {
+      "keyName": "Slot7",
+      "variants": [
+        {
+          "keyCode": [
+            "Alpha7"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Release"
+    },
+    {
+      "keyName": "Slot8",
+      "variants": [
+        {
+          "keyCode": [
+            "Alpha8"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Release"
+    },
+    {
+      "keyName": "Slot9",
+      "variants": [
+        {
+          "keyCode": [
+            "Alpha9"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Release"
+    },
+    {
+      "keyName": "Slot0",
+      "variants": [
+        {
+          "keyCode": [
+            "Alpha0"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Release"
+    },
+    {
+      "keyName": "OpticCalibrationSwitchUp",
+      "variants": [
+        {
+          "keyCode": [
+            "PageUp"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "OpticCalibrationSwitchDown",
+      "variants": [
+        {
+          "keyCode": [
+            "PageDown"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "MakeScreenshot",
+      "variants": [
+        {
+          "keyCode": [
+            "SysReq"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "ThrowItem",
+      "variants": [
+        {
+          "keyCode": [
+            "Delete"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "Breath",
+      "variants": [
+        {
+          "keyCode": [
+            "LeftAlt"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "ToggleInfo",
+      "variants": [
+        {
+          "keyCode": [
+            "I"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "Console",
+      "variants": [
+        {
+          "keyCode": [
+            "BackQuote"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "LeftStance",
+      "variants": [
+        {
+          "keyCode": [
+            "Mouse4"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "Vaulting",
+      "variants": [
+        {
+          "keyCode": [
+            "Space"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Continuous"
+    },
+    {
+      "keyName": "PressSlot4",
+      "variants": [
+        {
+          "keyCode": [
+            "Alpha4"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "PressSlot5",
+      "variants": [
+        {
+          "keyCode": [
+            "Alpha5"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "PressSlot6",
+      "variants": [
+        {
+          "keyCode": [
+            "Alpha6"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "PressSlot7",
+      "variants": [
+        {
+          "keyCode": [
+            "Alpha7"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "PressSlot8",
+      "variants": [
+        {
+          "keyCode": [
+            "Alpha8"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "PressSlot9",
+      "variants": [
+        {
+          "keyCode": [
+            "Alpha9"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    },
+    {
+      "keyName": "PressSlot0",
+      "variants": [
+        {
+          "keyCode": [
+            "Alpha0"
+          ]
+        },
+        {
+          "keyCode": []
+        }
+      ],
+      "pressType": "Press"
+    }
+  ]
+} 
+2024-08-09 01:31:16.786 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [1]: URL: http://127.0.0.1:6969/client/menu/locale/en, crc: .  
+2024-08-09 01:31:16.836 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [1]: URL: http://127.0.0.1:6969/client/menu/locale/en, crc: , responseText: . 
+2024-08-09 01:31:16.853 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [2]: URL: http://127.0.0.1:6969/client/game/mode, crc: .  
+2024-08-09 01:31:16.904 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [2]: URL: http://127.0.0.1:6969/client/game/mode, crc: , responseText: . 
+2024-08-09 01:31:16.904 +03:00|0.14.9.1.30626|Info|application|Session mode: Regular 
+2024-08-09 01:31:16.904 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [3]: URL: http://127.0.0.1:6969/client/game/start, crc: .  
+2024-08-09 01:31:16.977 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [3]: URL: http://127.0.0.1:6969/client/game/start, crc: , responseText: . 
+2024-08-09 01:31:16.994 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [4]: URL: http://127.0.0.1:6969/client/game/version/validate, crc: .  
+2024-08-09 01:31:17.045 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [4]: URL: http://127.0.0.1:6969/client/game/version/validate, crc: , responseText: . 
+2024-08-09 01:31:17.045 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [5]: URL: http://127.0.0.1:6969/client/languages, crc: .  
+2024-08-09 01:31:17.096 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [5]: URL: http://127.0.0.1:6969/client/languages, crc: , responseText: . 
+2024-08-09 01:31:17.112 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [6]: URL: http://127.0.0.1:6969/client/game/config, crc: .  
+2024-08-09 01:31:17.136 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [6]: URL: http://127.0.0.1:6969/client/game/config, crc: , responseText: . 
+2024-08-09 01:31:18.714 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [7]: URL: http://127.0.0.1:6969/client/items, crc: .  
+2024-08-09 01:31:29.847 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [7]: URL: http://127.0.0.1:6969/client/items, crc: , responseText: . 
+2024-08-09 01:31:29.869 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [8]: URL: http://127.0.0.1:6969/client/customization, crc: .  
+2024-08-09 01:31:30.049 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [8]: URL: http://127.0.0.1:6969/client/customization, crc: , responseText: . 
+2024-08-09 01:31:30.049 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [9]: URL: http://127.0.0.1:6969/client/globals, crc: .  
+2024-08-09 01:31:30.864 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [9]: URL: http://127.0.0.1:6969/client/globals, crc: , responseText: . 
+2024-08-09 01:31:30.864 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [10]: URL: http://127.0.0.1:6969/client/trading/api/traderSettings, crc: .  
+2024-08-09 01:31:30.932 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [10]: URL: http://127.0.0.1:6969/client/trading/api/traderSettings, crc: , responseText: . 
+2024-08-09 01:31:30.936 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [11]: URL: http://127.0.0.1:6969/client/settings, crc: .  
+2024-08-09 01:31:30.983 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [11]: URL: http://127.0.0.1:6969/client/settings, crc: , responseText: . 
+2024-08-09 01:31:30.983 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [12]: URL: http://127.0.0.1:6969/client/game/profile/list, crc: .  
+2024-08-09 01:31:31.034 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [12]: URL: http://127.0.0.1:6969/client/game/profile/list, crc: , responseText: . 
+2024-08-09 01:31:31.143 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [13]: URL: http://127.0.0.1:6969/client/account/customization, crc: .  
+2024-08-09 01:31:31.193 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [13]: URL: http://127.0.0.1:6969/client/account/customization, crc: , responseText: . 
+2024-08-09 01:31:31.224 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [14]: URL: http://127.0.0.1:6969/client/locale/en, crc: .  
+2024-08-09 01:31:31.651 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [14]: URL: http://127.0.0.1:6969/client/locale/en, crc: , responseText: . 
+2024-08-09 01:31:31.706 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [15]: URL: http://127.0.0.1:6969/client/locale/ru, crc: .  
+2024-08-09 01:31:32.154 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [15]: URL: http://127.0.0.1:6969/client/locale/ru, crc: , responseText: . 
+2024-08-09 01:31:32.197 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [16]: URL: http://127.0.0.1:6969/client/locale/ge, crc: .  
+2024-08-09 01:31:32.610 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [16]: URL: http://127.0.0.1:6969/client/locale/ge, crc: , responseText: . 
+2024-08-09 01:31:32.663 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [17]: URL: http://127.0.0.1:6969/client/locale/fr, crc: .  
+2024-08-09 01:31:33.075 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [17]: URL: http://127.0.0.1:6969/client/locale/fr, crc: , responseText: . 
+2024-08-09 01:31:33.314 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [18]: URL: http://127.0.0.1:6969/client/game/profile/nickname/reserved, crc: .  
+2024-08-09 01:31:33.339 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [18]: URL: http://127.0.0.1:6969/client/game/profile/nickname/reserved, crc: , responseText: . 
+2024-08-09 01:31:37.496 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [19]: URL: http://127.0.0.1:6969/client/game/profile/nickname/validate, crc: .  
+2024-08-09 01:31:37.531 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [19]: URL: http://127.0.0.1:6969/client/game/profile/nickname/validate, crc: , responseText: . 
+2024-08-09 01:31:40.729 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [20]: URL: http://127.0.0.1:6969/client/game/profile/create, crc: .  
+2024-08-09 01:31:40.830 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [20]: URL: http://127.0.0.1:6969/client/game/profile/create, crc: , responseText: . 
+2024-08-09 01:31:40.847 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [21]: URL: http://127.0.0.1:6969/client/game/profile/list, crc: .  
+2024-08-09 01:31:41.084 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [21]: URL: http://127.0.0.1:6969/client/game/profile/list, crc: , responseText: . 
+2024-08-09 01:31:41.091 +03:00|0.14.9.1.30626|Info|application|SelectProfile ProfileId:66b5471d0001adb53501a85c AccountId:1465993 
+2024-08-09 01:31:41.091 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [22]: URL: http://127.0.0.1:6969/client/game/profile/select, crc: .  
+2024-08-09 01:31:41.152 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [22]: URL: http://127.0.0.1:6969/client/game/profile/select, crc: , responseText: . 
+2024-08-09 01:31:41.164 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [23]: URL: http://127.0.0.1:6969/client/profile/status, crc: .  
+2024-08-09 01:31:41.204 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [23]: URL: http://127.0.0.1:6969/client/profile/status, crc: , responseText: . 
+2024-08-09 01:31:41.222 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [24]: URL: http://127.0.0.1:6969/client/weather, crc: .  
+2024-08-09 01:31:41.222 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [25]: URL: http://127.0.0.1:6969/client/locations, crc: .  
+2024-08-09 01:31:41.249 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [24]: URL: http://127.0.0.1:6969/client/weather, crc: , responseText: . 
+2024-08-09 01:31:42.486 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [25]: URL: http://127.0.0.1:6969/client/locations, crc: , responseText: . 
+2024-08-09 01:31:42.512 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [26]: URL: http://127.0.0.1:6969/client/handbook/templates, crc: .  
+2024-08-09 01:31:42.799 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [26]: URL: http://127.0.0.1:6969/client/handbook/templates, crc: , responseText: . 
+2024-08-09 01:31:44.027 +03:00|0.14.9.1.30626|Error|Default|Node 63a897c6b1ff6e29734fcc95 have no parent. 
+2024-08-09 01:31:44.027 +03:00|0.14.9.1.30626|Error|Default|Node 63a898a328e385334e0640a5 have no parent. 
+2024-08-09 01:31:44.027 +03:00|0.14.9.1.30626|Error|Default|Node 63a8970d7108f713591149f5 have no parent. 
+2024-08-09 01:31:45.376 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [27]: URL: http://127.0.0.1:6969/client/hideout/areas, crc: .  
+2024-08-09 01:31:45.519 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [27]: URL: http://127.0.0.1:6969/client/hideout/areas, crc: , responseText: . 
+2024-08-09 01:31:45.693 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [28]: URL: http://127.0.0.1:6969/client/hideout/qte/list, crc: .  
+2024-08-09 01:31:45.751 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [28]: URL: http://127.0.0.1:6969/client/hideout/qte/list, crc: , responseText: . 
+2024-08-09 01:31:45.751 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [29]: URL: http://127.0.0.1:6969/client/hideout/settings, crc: .  
+2024-08-09 01:31:45.801 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [29]: URL: http://127.0.0.1:6969/client/hideout/settings, crc: , responseText: . 
+2024-08-09 01:31:45.801 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [30]: URL: http://127.0.0.1:6969/client/hideout/production/recipes, crc: .  
+2024-08-09 01:31:45.953 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [30]: URL: http://127.0.0.1:6969/client/hideout/production/recipes, crc: , responseText: . 
+2024-08-09 01:31:45.953 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [31]: URL: http://127.0.0.1:6969/client/hideout/production/scavcase/recipes, crc: .  
+2024-08-09 01:31:46.004 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [31]: URL: http://127.0.0.1:6969/client/hideout/production/scavcase/recipes, crc: , responseText: . 
+2024-08-09 01:31:46.004 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [32]: URL: http://127.0.0.1:6969/client/builds/list, crc: .  
+2024-08-09 01:31:46.138 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [32]: URL: http://127.0.0.1:6969/client/builds/list, crc: , responseText: . 
+2024-08-09 01:31:46.532 +03:00|0.14.9.1.30626|Error|Default|Node 63a897c6b1ff6e29734fcc95 have no parent. 
+2024-08-09 01:31:46.532 +03:00|0.14.9.1.30626|Error|Default|Node 63a898a328e385334e0640a5 have no parent. 
+2024-08-09 01:31:46.532 +03:00|0.14.9.1.30626|Error|Default|Node 63a8970d7108f713591149f5 have no parent. 
+2024-08-09 01:31:47.235 +03:00|0.14.9.1.30626|Error|Default|Node 63a897c6b1ff6e29734fcc95 have no parent. 
+2024-08-09 01:31:47.235 +03:00|0.14.9.1.30626|Error|Default|Node 63a898a328e385334e0640a5 have no parent. 
+2024-08-09 01:31:47.235 +03:00|0.14.9.1.30626|Error|Default|Node 63a8970d7108f713591149f5 have no parent. 
+2024-08-09 01:31:48.032 +03:00|0.14.9.1.30626|Error|Default|Node 63a897c6b1ff6e29734fcc95 have no parent. 
+2024-08-09 01:31:48.032 +03:00|0.14.9.1.30626|Error|Default|Node 63a898a328e385334e0640a5 have no parent. 
+2024-08-09 01:31:48.032 +03:00|0.14.9.1.30626|Error|Default|Node 63a8970d7108f713591149f5 have no parent. 
+2024-08-09 01:31:48.856 +03:00|0.14.9.1.30626|Debug|application|totalMemoryBeforeCleanUp 545.7578 
+2024-08-09 01:31:48.856 +03:00|0.14.9.1.30626|Debug|application|GC::Collect 
+2024-08-09 01:31:49.085 +03:00|0.14.9.1.30626|Debug|application|GC::Collect Aggressive 
+2024-08-09 01:31:49.538 +03:00|0.14.9.1.30626|Debug|application|collectedMemoryGB 0.00390625 
+2024-08-09 01:31:49.538 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [33]: URL: http://127.0.0.1:6969/client/notifier/channel/create, crc: .  
+2024-08-09 01:31:49.538 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [34]: URL: http://127.0.0.1:6969/client/profile/status, crc: .  
+2024-08-09 01:31:49.538 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [35]: URL: http://127.0.0.1:6969/client/trading/customization/storage, crc: .  
+2024-08-09 01:31:49.549 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [34]: URL: http://127.0.0.1:6969/client/profile/status, crc: , responseText: . 
+2024-08-09 01:31:49.549 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [33]: URL: http://127.0.0.1:6969/client/notifier/channel/create, crc: , responseText: . 
+2024-08-09 01:31:49.581 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [35]: URL: http://127.0.0.1:6969/client/trading/customization/storage, crc: , responseText: . 
+2024-08-09 01:31:49.610 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [36]: URL: http://127.0.0.1:6969/client/server/list, crc: .  
+2024-08-09 01:31:49.610 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [37]: URL: http://127.0.0.1:6969/client/match/group/current, crc: .  
+2024-08-09 01:31:49.610 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [39]: URL: http://127.0.0.1:6969/client/friend/list, crc: .  
+2024-08-09 01:31:49.610 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [40]: URL: http://127.0.0.1:6969/client/friend/request/list/inbox, crc: .  
+2024-08-09 01:31:49.610 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [38]: URL: http://127.0.0.1:6969/client/mail/dialog/list, crc: .  
+2024-08-09 01:31:49.610 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [41]: URL: http://127.0.0.1:6969/client/friend/request/list/outbox, crc: .  
+2024-08-09 01:31:49.610 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [42]: URL: http://127.0.0.1:6969/client/quest/list, crc: .  
+2024-08-09 01:31:49.640 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [36]: URL: http://127.0.0.1:6969/client/server/list, crc: , responseText: . 
+2024-08-09 01:31:49.640 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [37]: URL: http://127.0.0.1:6969/client/match/group/current, crc: , responseText: . 
+2024-08-09 01:31:49.640 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [40]: URL: http://127.0.0.1:6969/client/friend/request/list/inbox, crc: , responseText: . 
+2024-08-09 01:31:49.654 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [39]: URL: http://127.0.0.1:6969/client/friend/list, crc: , responseText: . 
+2024-08-09 01:31:49.654 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [41]: URL: http://127.0.0.1:6969/client/friend/request/list/outbox, crc: , responseText: . 
+2024-08-09 01:31:49.654 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [38]: URL: http://127.0.0.1:6969/client/mail/dialog/list, crc: , responseText: . 
+2024-08-09 01:31:49.726 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [42]: URL: http://127.0.0.1:6969/client/quest/list, crc: , responseText: . 
+2024-08-09 01:31:49.750 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [43]: URL: http://127.0.0.1:6969/client/repeatalbeQuests/activityPeriods, crc: .  
+2024-08-09 01:31:49.786 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [43]: URL: http://127.0.0.1:6969/client/repeatalbeQuests/activityPeriods, crc: , responseText: . 
+2024-08-09 01:31:49.797 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [44]: URL: http://127.0.0.1:6969/client/achievement/statistic, crc: .  
+2024-08-09 01:31:49.823 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [44]: URL: http://127.0.0.1:6969/client/achievement/statistic, crc: , responseText: . 
+2024-08-09 01:31:49.830 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [45]: URL: http://127.0.0.1:6969/client/achievement/list, crc: .  
+2024-08-09 01:31:49.991 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [45]: URL: http://127.0.0.1:6969/client/achievement/list, crc: , responseText: . 
+2024-08-09 01:31:53.211 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [46]: URL: http://127.0.0.1:6969/client/checkVersion, crc: .  
+2024-08-09 01:31:53.238 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [46]: URL: http://127.0.0.1:6969/client/checkVersion, crc: , responseText: . 
+2024-08-09 01:31:56.620 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [47]: URL: http://127.0.0.1:6969/client/insurance/items/list/cost, crc: .  
+2024-08-09 01:31:56.659 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [47]: URL: http://127.0.0.1:6969/client/insurance/items/list/cost, crc: , responseText: . 
+2024-08-09 01:31:58.442 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [48]: URL: http://127.0.0.1:6969/client/match/group/exit_from_menu, crc: .  
+2024-08-09 01:31:58.499 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [48]: URL: http://127.0.0.1:6969/client/match/group/exit_from_menu, crc: , responseText: . 
+2024-08-09 01:32:00.362 +03:00|0.14.9.1.30626|Debug|application|TRACE-NetworkGameMatching H 
+2024-08-09 01:32:00.362 +03:00|0.14.9.1.30626|Debug|application|TRACE-NetworkGameMatching I 
+2024-08-09 01:32:31.277 +03:00|0.14.9.1.30626|Debug|application|TRACE-GamePrepare 2 
+2024-08-09 01:32:31.454 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [50]: URL: http://127.0.0.1:6969/client/location/getLocalloot, crc: .  
+2024-08-09 01:32:31.454 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [49]: URL: http://127.0.0.1:6969/client/raid/configuration, crc: .  
+2024-08-09 01:32:31.488 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [49]: URL: http://127.0.0.1:6969/client/raid/configuration, crc: , responseText: . 
+2024-08-09 01:32:32.434 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [50]: URL: http://127.0.0.1:6969/client/location/getLocalloot, crc: , responseText: . 
+2024-08-09 01:32:43.566 +03:00|0.14.9.1.30626|Debug|application|Heap pre-allocation - disabled 
+2024-08-09 01:32:43.890 +03:00|0.14.9.1.30626|Debug|application|totalMemoryBeforeCleanUp 907.0234 
+2024-08-09 01:32:43.890 +03:00|0.14.9.1.30626|Debug|application|GC::Collect 
+2024-08-09 01:32:44.200 +03:00|0.14.9.1.30626|Debug|application|GC::Collect Aggressive 
+2024-08-09 01:32:44.852 +03:00|0.14.9.1.30626|Debug|application|collectedMemoryGB 0.01171875 
+2024-08-09 01:32:48.199 +03:00|0.14.9.1.30626|Error|Default|Load AI settings error: BotDifficultyeasy  role:bosspunisher 
+2024-08-09 01:32:48.199 +03:00|0.14.9.1.30626|Error|Default| 
+EXCEPTION: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+  at GClass531.smethod_1 (BotDifficulty d, EFT.WildSpawnType role, System.Boolean external) [0x0008f] in <a5b6eaefee6842aba73e4a77ea14a564>:0 
+  at GClass531.LoadInternal (CoreBotSettingsClass& core) [0x0008e] in <a5b6eaefee6842aba73e4a77ea14a564>:0 
+  at GClass531.Load () [0x0003b] in <a5b6eaefee6842aba73e4a77ea14a564>:0 
+  at GClass531.GetSettings (BotDifficulty difficulty, EFT.WildSpawnType role) [0x00007] in <a5b6eaefee6842aba73e4a77ea14a564>:0 
+  at BotDifficultySettingsClass..ctor (BotDifficulty difficulty, EFT.WildSpawnType role, BotCurvSettings curv, GClass526[] scatterings) [0x0001b] in <a5b6eaefee6842aba73e4a77ea14a564>:0 
+  at GClass533.SetSettings (BotPresetClass[] botPresets, GClass526[] botScatterings, BotLocationModifier botLocationModifier) [0x000e3] in <a5b6eaefee6842aba73e4a77ea14a564>:0 
+  at EFT.BotsController.Init (IBotGame botGame, IBotCreator botCreator, BotZone[] botZones, ISpawnSystem spawnSystem, BotLocationModifier botLocationModifier, System.Boolean botEnable, System.Boolean freeForAll, System.Boolean enableWaveControl, System.Boolean online, System.Boolean haveSectants, EFT.Game.Spawning.IPlayersCollection players, System.String openZones) [0x000ce] in <a5b6eaefee6842aba73e4a77ea14a564>:0 
+  at EFT.LocalGame+Class1392.MoveNext () [0x000da] in <a5b6eaefee6842aba73e4a77ea14a564>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) [0x00026] in <ca21460feb9c47d0ac337b9893474cc6>:0 
+2024-08-09 01:32:48.207 +03:00|0.14.9.1.30626|Error|Default|KeyNotFoundException: The given key was not present in the dictionary.
+GClass531.smethod_1 (BotDifficulty d, EFT.WildSpawnType role, System.Boolean external) (at <a5b6eaefee6842aba73e4a77ea14a564>:0)
+GClass531.LoadInternal (CoreBotSettingsClass& core) (at <a5b6eaefee6842aba73e4a77ea14a564>:0)
+GClass531.Load () (at <a5b6eaefee6842aba73e4a77ea14a564>:0)
+GClass531.GetSettings (BotDifficulty difficulty, EFT.WildSpawnType role) (at <a5b6eaefee6842aba73e4a77ea14a564>:0)
+BotDifficultySettingsClass..ctor (BotDifficulty difficulty, EFT.WildSpawnType role, BotCurvSettings curv, GClass526[] scatterings) (at <a5b6eaefee6842aba73e4a77ea14a564>:0)
+GClass533.SetSettings (BotPresetClass[] botPresets, GClass526[] botScatterings, BotLocationModifier botLocationModifier) (at <a5b6eaefee6842aba73e4a77ea14a564>:0)
+EFT.BotsController.Init (IBotGame botGame, IBotCreator botCreator, BotZone[] botZones, ISpawnSystem spawnSystem, BotLocationModifier botLocationModifier, System.Boolean botEnable, System.Boolean freeForAll, System.Boolean enableWaveControl, System.Boolean online, System.Boolean haveSectants, EFT.Game.Spawning.IPlayersCollection players, System.String openZones) (at <a5b6eaefee6842aba73e4a77ea14a564>:0)
+EFT.LocalGame+Class1392.MoveNext () (at <a5b6eaefee6842aba73e4a77ea14a564>:0)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <ca21460feb9c47d0ac337b9893474cc6>:0)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+Class362:UnityEngine.ILogHandler.LogException(Exception, Object)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+EFT.BaseLocalGame`1:method_5(BotControllerSettings, ISpawnSystem, Callback)
+EFT.Class1383:method_1()
+EFT.Struct431:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder:SetResult()
+Struct259:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder:SetResult()
+Struct257:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder:SetResult()
+Struct258:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder:SetResult()
+Struct833:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder:SetResult()
+Struct839:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder:SetResult()
+Struct838:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder:SetResult()
+Struct840:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder:SetResult()
+Struct841:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder:SetResult()
+Struct1083:MoveNext()
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+Struct1082:Execute()
+Class3189:Execute(Struct1082&)
+Diz.Jobs.JobScheduler:method_2(List`1&, List`1&, List`1, Interface19)
+Diz.Jobs.JobScheduler:method_1(Interface19)
+Diz.Jobs.JobScheduler:method_0()
+Diz.Jobs.JobScheduler:LateUpdate()
+ 
+2024-08-09 01:32:48.367 +03:00|0.14.9.1.30626|Error|Default|Compute shader (Scattering Slices): Property (_StencilShadow) at kernel index (0) is not set
+ 
+2024-08-09 01:32:48.805 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [51]: URL: http://127.0.0.1:6969/client/game/bot/generate, crc: .  
+2024-08-09 01:32:50.451 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [51]: URL: http://127.0.0.1:6969/client/game/bot/generate, crc: , responseText: . 
+2024-08-09 01:35:10.452 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [52]: URL: http://127.0.0.1:6969/client/game/keepalive, crc: .  
+2024-08-09 01:35:10.529 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [52]: URL: http://127.0.0.1:6969/client/game/keepalive, crc: , responseText: . 
+2024-08-09 01:37:30.509 +03:00|0.14.9.1.30626|Info|backend|---> Request HTTPS, id [53]: URL: http://127.0.0.1:6969/client/game/keepalive, crc: .  
+2024-08-09 01:37:30.590 +03:00|0.14.9.1.30626|Info|backend|<--- Response HTTPS, id [53]: URL: http://127.0.0.1:6969/client/game/keepalive, crc: , responseText: . 
